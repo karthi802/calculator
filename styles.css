@@ -50,12 +50,12 @@ body{
     word-break: break-all;
 }
 
-.output top-container{
+.top-container{
     color:rgba(255,255,255,.75);
     font-size: 1.5rem;
 }
 
-.output bottom-container{
+.bottom-container{
     color:white;
     font-size: 2.5rem;
 }
